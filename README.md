@@ -1,7 +1,7 @@
 # Seminar: Denmark and EU Banking Union
 This paper was a part of a seminar at UCPH. The paper is in danish. We used OxMetrics for the analysis, but is not available. 
 
-The grade we recieved was 12/12 on the danish 7 point grading scale
+The grade we recieved was 12/12 on the danish 7 point grading scale.
 
 ## Abstract
 This seminar project investigates the 2023 collapses of Silicon Valley Bank (SVB)
